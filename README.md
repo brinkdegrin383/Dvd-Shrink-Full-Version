@@ -239,3 +239,6 @@ This repository serves as the official landing page for DVD Shrink. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DVD Shrink today!**
+
+---
+**Last updated:** 2026-09-07 20:20:17 UTC
