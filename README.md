@@ -241,4 +241,4 @@ This repository serves as the official landing page for DVD Shrink. The software
 **Get the most recent version of DVD Shrink today!**
 
 ---
-**Last updated:** 2026-09-14 11:32:06 UTC
+**Last updated:** 2026-09-14 17:28:08 UTC
